@@ -1,0 +1,4 @@
+What is useEffect Hook??
+
+=> The useEffect hook lets you perform side effects in functional components.
+=> It is close replacement to componentDidMount, componentDidUpdate and componentWillUnmount

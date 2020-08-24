@@ -1,0 +1,8 @@
+What is Custom Hooks??
+
+=> A custom Hook is basically a JavaScript function whose name starts with "use"
+=> A custom hook can call other Hooks if required.
+
+Why Custom Hooks??
+
+=> To share logic - Alternative to HOC and Render props.

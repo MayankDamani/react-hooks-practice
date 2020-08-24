@@ -1,0 +1,9 @@
+        reduce                                      vs                              useReducer
+
+=> reduce in JavaScript                             => useReduce in React
+
+=> array.reduce(reducer, initialValue)              => useReducer(reducer, initialState)
+
+=> singleValue = reducer(accumulator, itemvalue)    => newState = reducer(currentState, action)
+
+=> reduce method returns a single value             => useReducer returns a pair of values [newState, dispatch]
